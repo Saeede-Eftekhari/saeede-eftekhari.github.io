@@ -6,6 +6,7 @@ Required files:
 - conference-papers.html
 - teaching.html
 - service.html
+-course.html
 - profile.jpg
 - cafe.jpg
 
